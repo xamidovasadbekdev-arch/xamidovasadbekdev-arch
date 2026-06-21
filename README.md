@@ -1,4 +1,4 @@
-![Python](https://img.shields.io/badge/Python-Expert-blue)
+![Python](https://img.shields.io/badge/Python-Middle-blue)
 ![Django](https://img.shields.io/badge/Django-Backend-green)
 ![ML](https://img.shields.io/badge/Machine_Learning-Learning-orange)
 # Hi, I'm Asadbek 👋
